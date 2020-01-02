@@ -29,4 +29,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thank you to Grant Sanderson ("3blue1brown") for authoring the manimlib automation engine.
+* Thank you to Grant Sanderson ("3Blue1Brown") for authoring the manimlib automation engine.
