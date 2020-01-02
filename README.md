@@ -8,11 +8,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Manim runs on Python 3.7. It can be installed via
 
 ```
-Give examples
+pip3 install manimlib
 ```
+Additional system requirements include [pycairo](https://pypi.org/project/pycairo/), [sox](https://pypi.org/project/sox/), [ffmpeg](https://pypi.org/project/ffmpeg/), and [latex](https://pypi.org/project/latex/).
 
 ## Built With
 
