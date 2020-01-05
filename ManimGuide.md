@@ -3,7 +3,7 @@
 ## mobject Commands
 
 | **Displaying Methods** | Description |
-|: ------------- |:-------------|
+|-------------|-------------|
 | `python OBJECT.copy()` | TO-DO |
 | `python OBJECT.deep_copy()` | TO-DO |
 | `python OBJECT.generate_target()` | TO-DO |
