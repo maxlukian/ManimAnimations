@@ -6,7 +6,9 @@
 |-------------|-------------|
 | **Displaying Methods** | Description |
 | `OBJECT.copy()` | TO-DO |
-| ```python OBJECT.deep_copy()``` | TO-DO |
+| ```python 
+OBJECT.deep_copy()
+``` | TO-DO |
 | ```python OBJECT.generate_target()``` | TO-DO |
 | **Updating Methods** | Description |
 | ```python OBJECT.update()``` | TO-DO |
