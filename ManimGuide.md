@@ -2,7 +2,7 @@
 
 ## mobject Commands
 
-| All commands relating to the _mobject_ class|
+| All commands relating to the _mobject_ class| |
 | **Displaying Methods** | Description |
 |-------------|-------------|
 | `python OBJECT.copy()` | TO-DO |
