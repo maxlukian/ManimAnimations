@@ -22,7 +22,7 @@ Additional system requirements include [pycairo](https://pypi.org/project/pycair
 
 ## Authors
 
-* **Max Lukianchikov**
+* **Max Lukianchikov** (maxime.lukianchikov@yale.edu)
 
 ## License
 
