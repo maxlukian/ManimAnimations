@@ -1,11 +1,6 @@
 ## mobject Commands
 
-
-```python
-OBJECT.to_edge()
-```
-
-| Command |Description|
+| Command |Description                                              |
 | ------------- |:-------------:|
 | `python OBJECT.to_edge()` | TO-DO |
 | `python OBJECT.to_corner()` | TO-DO |
