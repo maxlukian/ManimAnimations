@@ -2,6 +2,7 @@
 
 ## mobject Commands
 
+| Command List | Description List |
 |-------------|-------------|
 | **Displaying Methods** | Description |
 | `python OBJECT.copy()` | TO-DO |
