@@ -1,4 +1,4 @@
-# This is an in-progress, comprehensive guide for using _manim_.
+### This is an in-progress, comprehensive guide for using _manim_.
 
 ## mobject Commands
 
