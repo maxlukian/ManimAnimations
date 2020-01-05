@@ -2,11 +2,12 @@
 
 ## mobject Commands
 
-| Command |Description|
+| **Displaying Methods** | Description |
 | ------------- |:-------------:|
 | `python OBJECT.copy()` | TO-DO |
 | `python OBJECT.deep_copy()` | TO-DO |
 | `python OBJECT.generate_target()` | TO-DO |
+| **Updating Methods** | Description |
 | `python OBJECT.update()` | TO-DO |
 | `python OBJECT.get_time_based_updaters()` | TO-DO |
 | `python OBJECT.has_time_based_updater()` | TO-DO |
@@ -18,6 +19,7 @@
 | `python OBJECT.match_updaters()` | TO-DO |
 | `python OBJECT.suspend_updaters()` | TO-DO |
 | `python OBJECT.resume_updaters()` | TO-DO |
+| **Transforming Methods** | Description |
 | `python OBJECT.apply_to_family(function)` | TO-DO |
 | `python OBJECT.shift()` | TO-DO |
 | `python OBJECT.scale()` | TO-DO |
@@ -33,11 +35,13 @@
 | `python OBJECT.wag()` | TO-DO |
 | `python OBJECT.reverse_points()` | TO-DO |
 | `python OBJECT.repeat()` | TO-DO |
+| **In-Place Operations** | Description |
 | `python OBJECT.apply_points_function_about_point()` | TO-DO |
 | `python OBJECT.rotate_in_place()` | TO-DO |
 | `python OBJECT.scale_in_place()` | TO-DO |
 | `python OBJECT.scale_about_point()` | TO-DO |
 | `python OBJECT.pose_at_angle()` | TO-DO |
+| **Positioning Methods** | Description |
 | `python OBJECT.center()` | TO-DO |
 | `python OBJECT.align_on_border()` | TO-DO |
 | `python OBJECT.to_corner()` | TO-DO |
@@ -63,9 +67,11 @@
 | `python OBJECT.replace()` | TO-DO |
 | `python OBJECT.surround()` | TO-DO |
 | `python OBJECT.put_start_and_end_on()` | TO-DO |
+| **Background Rectangle Methods** | Description |
 | `python OBJECT.add_background_rectangle()` | TO-DO |
 | `python OBJECT.add_background_rectangle_to_submobjects()` | TO-DO |
 | `python OBJECT.add_background_rectangle_to_family_members_with_points()` | TO-DO |
+| **Coloring Methods** | Description |
 | `python OBJECT.set_color()` | TO-DO |
 | `python OBJECT.set_color_by_gradient()` | TO-DO |
 | `python OBJECT.set_colors_by_radial_gradient()` | TO-DO |
@@ -75,11 +81,13 @@
 | `python OBJECT.fade_to()` | TO-DO |
 | `python OBJECT.fade()` | TO-DO |
 | `python OBJECT.get_color()` | TO-DO |
+| **State Methods** | Description |
 | `python OBJECT.save_state()` | TO-DO |
 | `python OBJECT.restore()` | TO-DO |
 | `python OBJECT.reduce_across_dimension()` | TO-DO |
 | `python OBJECT.nonempty_submobjects()` | TO-DO |
 | `python OBJECT.get_merged_array()` | TO-DO |
+| **Getters** | Description |
 | `python OBJECT.get_all_points()` | TO-DO |
 | `python OBJECT.get_points_defining_boundary()` | TO-DO |
 | `python OBJECT.get_num_points()` | TO-DO |
@@ -112,6 +120,7 @@
 | `python OBJECT.get_z_index_reference_point()` | TO-DO |
 | `python OBJECT.has_points()` | TO-DO |
 | `python OBJECT.has_no_points()` | TO-DO |
+| **Matching Methods** | Description |
 | `python OBJECT.match_color()` | TO-DO |
 | `python OBJECT.match_dim_size()` | TO-DO |
 | `python OBJECT.match_width()` | TO-DO |
@@ -122,6 +131,7 @@
 | `python OBJECT.match_y()` | TO-DO |
 | `python OBJECT.match_z()` | TO-DO |
 | `python OBJECT.align_to()` | TO-DO |
+| **Family Methods** | Description |
 | `python OBJECT.get_group_class()` | TO-DO |
 | `python OBJECT.split()` | TO-DO |
 | `python OBJECT.get_family()` | TO-DO |
@@ -130,9 +140,7 @@
 | `python OBJECT.arrange_in_grid()` | TO-DO |
 | `python OBJECT.sort()` | TO-DO |
 | `python OBJECT.shuffle()` | TO-DO |
-| `python OBJECT.arrange_submobjects()` | TO-DO |
-| `python OBJECT.sort_submobjects()` | TO-DO |
-| `python OBJECT.shuffle_submobjects()` | TO-DO |
+| **Aligning Methods** | Description |
 | `python OBJECT.align_data()` | TO-DO |
 | `python OBJECT.get_point_mobject()` | TO-DO |
 | `python OBJECT.align_points()` | TO-DO |
@@ -147,6 +155,7 @@
 | `python OBJECT.become_partial()` | TO-DO |
 | `python OBJECT.pointwise_become_partial()` | TO-DO |
 | `python OBJECT.become()` | TO-DO |
+| **Error Methods** | Description |
 | `python OBJECT.throw_error_if_no_points()` | TO-DO |
 
 Full source code available in mobject.py
