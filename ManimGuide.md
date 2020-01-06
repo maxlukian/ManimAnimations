@@ -163,8 +163,130 @@ Full source code available in mobject.py
 
 ## constants
 
-```
-UP
-```
+| Command List | Description List |
+|-------------|-------------|
+| **Camera Configurations** | Description |
+| `PRODUCTION_QUALITY_CAMERA_CONFIG` | TO-DO |
+| `HIGH_QUALITY_CAMERA_CONFIG` | TO-DO |
+| `MEDIUM_QUALITY_CAMERA_CONFIG` | TO-DO |
+| `LOW_QUALITY_CAMERA_CONFIG` | TO-DO |
+| `DEFAULT_PIXEL_HEIGHT` | TO-DO |
+| `DEFAULT_PIXEL_WIDTH` | TO-DO |
+| `DEFAULT_FRAME_RATE` | TO-DO |
+| `DEFAULT_POINT_DENSITY_2D` | TO-DO |
+| `DEFAULT_POINT_DENSITY_1D` | TO-DO |
+| `FRAME_HEIGHT` | TO-DO |
+| `FRAME_WIDTH` | TO-DO |
+| `FRAME_Y_RADIUS` | TO-DO |
+| `FRAME_X_RADIUS` | TO-DO |
+| **Buffers** | Description |
+| `SMALL_BUFF` | TO-DO |
+| `MED_SMALL_BUFF` | TO-DO |
+| `MED_LARGE_BUFF` | TO-DO |
+| `LARGE_BUFF` | TO-DO |
+| `DEFAULT_MOBJECT_TO_EDGE_BUFFER` | TO-DO |
+| `DEFAULT_MOBJECT_TO_MOBJECT_BUFFER` | TO-DO |
+| **Times** | Description |
+| `DEFAULT_POINTWISE_FUNCTION_RUN_TIME` | TO-DO |
+| `DEFAULT_WAIT_TIME` | TO-DO |
+| **Positions** | Description |
+| `ORIGIN` | TO-DO |
+| `UP` | TO-DO |
+| `DOWN` | TO-DO |
+| `LEFT` | TO-DO |
+| `RIGHT` | TO-DO |
+| `IN` | TO-DO |
+| `OUT` | TO-DO |
+| `X_AXIS` | TO-DO |
+| `Y_AXIS` | TO-DO |
+| `Z_AXIS` | TO-DO |
+| `UL` | TO-DO |
+| `UR` | TO-DO |
+| `DL` | TO-DO |
+| `DR` | TO-DO |
+| `TOP` | TO-DO |
+| `BOTTOM` | TO-DO |
+| `LEFT_SIDE` | TO-DO |
+| `RIGHT_SIDE` | TO-DO |
+| `TAU` | TO-DO |
+| `PI` | TO-DO |
+| `DEGREES` | TO-DO |
+| **Colors** | Description |
+| `DARK_BLUE` | TO-DO |
+| `DARK_BROWN` | TO-DO |
+| `LIGHT_BROWN` | TO-DO |
+| `BLUE_E` | TO-DO |
+| `BLUE_D` | TO-DO |
+| `BLUE_C` | TO-DO |
+| `BLUE_B` | TO-DO |
+| `BLUE_A` | TO-DO |
+| `TEAL_E` | TO-DO |
+| `TEAL_D` | TO-DO |
+| `TEAL_C` | TO-DO |
+| `TEAL_B` | TO-DO |
+| `TEAL_A` | TO-DO |
+| `GREEN_E` | TO-DO |
+| `GREEN_D` | TO-DO |
+| `GREEN_C` | TO-DO |
+| `GREEN_B` | TO-DO |
+| `GREEN_A` | TO-DO |
+| `YELLOW_E` | TO-DO |
+| `YELLOW_D` | TO-DO |
+| `YELLOW_C` | TO-DO |
+| `YELLOW_B` | TO-DO |
+| `YELLOW_A` | TO-DO |
+| `GOLD_E` | TO-DO |
+| `GOLD_D` | TO-DO |
+| `GOLD_C` | TO-DO |
+| `GOLD_B` | TO-DO |
+| `GOLD_A` | TO-DO |
+| `RED_E` | TO-DO |
+| `RED_D` | TO-DO |
+| `RED_C` | TO-DO |
+| `RED_B` | TO-DO |
+| `RED_A` | TO-DO |
+| `MAROON_E` | TO-DO |
+| `MAROON_D` | TO-DO |
+| `MAROON_C` | TO-DO |
+| `MAROON_B` | TO-DO |
+| `MAROON_A` | TO-DO |
+| `MAROON_E` | TO-DO |
+| `MAROON_D` | TO-DO |
+| `MAROON_C` | TO-DO |
+| `MAROON_B` | TO-DO |
+| `MAROON_A` | TO-DO |
+| `PURPLE_E` | TO-DO |
+| `PURPLE_D` | TO-DO |
+| `PURPLE_C` | TO-DO |
+| `PURPLE_B` | TO-DO |
+| `PURPLE_A` | TO-DO |
+| `WHITE` | TO-DO |
+| `BLACK` | TO-DO |
+| `LIGHT_GRAY` | TO-DO |
+| `LIGHT_GREY` | TO-DO |
+| `GRAY` | TO-DO |
+| `GREY` | TO-DO |
+| `DARK_GREY` | TO-DO |
+| `DARK_GRAY` | TO-DO |
+| `DARKER_GREY` | TO-DO |
+| `DARKER_GRAY` | TO-DO |
+| `GREY_BROWN` | TO-DO |
+| `PINK` | TO-DO |
+| `LIGHT_PINK` | TO-DO |
+| `GREEN_SCREEN` | TO-DO |
+| `ORANGE` | TO-DO |
+| `PALETTE` | TO-DO |
+| **Livestream Configurations** | Description |
+| `LIVE_STREAM_NAME` | TO-DO |
+| `TWITCH_STREAM_KEY` | TO-DO |
+| `STREAMING_PROTOCOL` | TO-DO |
+| `STREAMING_IP` | TO-DO |
+| `STREAMING_PORT` | TO-DO |
+| `STREAMING_CLIENT` | TO-DO |
+| `STREAMING_URL` | TO-DO |
+| `STREAMING_CONSOLE_BANNER` | TO-DO |
+| **Other** | Description |
+| `DEFAULT_STROKE_WIDTH` | TO-DO |
+| `FFMPEG_BIN` | TO-DO |
 
 Full source code available in constants.py
