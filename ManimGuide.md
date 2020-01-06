@@ -212,7 +212,7 @@ Full source code available in mobject.py
 | `PI` | TO-DO |
 | `DEGREES` | TO-DO |
 | **Colors** | Description |
-| `DARK_BLUE` | ![#236B8E](https://placehold.it/15/f03c15/000000?text=+) `#236B8E` |
+| `DARK_BLUE` | ![#236B8E](https://placehold.it/15/236b8e/000000?text=+) `#236B8E` |
 | `DARK_BROWN` | TO-DO |
 | `LIGHT_BROWN` | TO-DO |
 | `BLUE_E` | TO-DO |
