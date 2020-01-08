@@ -22,10 +22,10 @@
 | ``` OBJECT.resume_updaters()``` | TO-DO |
 | **Transforming Methods** | Description |
 | ``` OBJECT.apply_to_family(function)``` | TO-DO |
-| ``` OBJECT.shift()``` | TO-DO |
-| ``` OBJECT.scale()``` | TO-DO |
-| ``` OBJECT.rotate_about_origin()``` | TO-DO |
-| ``` OBJECT.rotate()``` | TO-DO |
+| ``` OBJECT.shift(VECTOR)``` | Move `OBJECT` relative to current position by `VECTOR`  |
+| ``` OBJECT.scale(DOUBLE)``` | Increase `OBJECT` size multiplicatively by `DOUBLE` |
+| ``` OBJECT.rotate_about_origin(ANGLE)``` | Rotate `OBJECT` around `ORIGIN` by `ANGLE` |
+| ``` OBJECT.rotate(about_point = VECTOR, ANGLE)``` | Rotate `OBJECT` around `about_point = POINT` by `ANGLE` |
 | ``` OBJECT.flip()``` | TO-DO |
 | ``` OBJECT.stretch()``` | TO-DO |
 | ``` OBJECT.apply_function()``` | TO-DO |
@@ -38,16 +38,16 @@
 | ``` OBJECT.repeat()``` | TO-DO |
 | **In-Place Operations** | Description |
 | ``` OBJECT.apply_points_function_about_point()``` | TO-DO |
-| ``` OBJECT.rotate_in_place()``` | TO-DO |
-| ``` OBJECT.scale_in_place()``` | TO-DO |
+| ``` OBJECT.rotate_in_place(ANGLE)``` | Rotate `OBJECT` around `about_point = OBJECT.get_center()` by `ANGLE` |
+| ``` OBJECT.scale_in_place(DOUBLE)``` | Increase `OBJECT` size multiplicatively by `DOUBLE` and keep in place |
 | ``` OBJECT.scale_about_point()``` | TO-DO |
 | ``` OBJECT.pose_at_angle()``` | TO-DO |
 | **Positioning Methods** | Description |
 | ``` OBJECT.center()``` | TO-DO |
 | ``` OBJECT.align_on_border()``` | TO-DO |
-| ``` OBJECT.to_corner()``` | TO-DO |
-| ``` OBJECT.to_edge()``` | TO-DO |
-| ``` OBJECT.next_to()``` | TO-DO |
+| ``` OBJECT.to_corner(VECTOR)``` | Move `OBJECT` to the specified corner with buffer `buff = DOUBLE` |
+| ``` OBJECT.to_edge(VECTOR)``` | Move `OBJECT` to the specified edge with buffer `buff = DOUBLE` |
+| ``` OBJECT.next_to(OBJECT, VECTOR)``` | Move `OBJECT` to the another `OBJECT` with buffer `buff = DOUBLE` |
 | ``` OBJECT.shift_onto_screen()``` | TO-DO |
 | ``` OBJECT.is_off_screen()``` | TO-DO |
 | ``` OBJECT.stretch_about_point()``` | TO-DO |
