@@ -207,9 +207,9 @@ Full source code available in mobject.py
 | `BOTTOM` | `FRAME_Y_RADIUS * DOWN` |
 | `LEFT_SIDE` | `FRAME_X_RADIUS * LEFT` |
 | `RIGHT_SIDE` | `FRAME_X_RADIUS * RIGHT` |
-| `TAU` | TO-DO |
-| `PI` | TO-DO |
-| `DEGREES` | TO-DO |
+| `TAU` | `PI * 2` |
+| `PI` | `np.pi` |
+| `DEGREES` | `TAU/360` |
 | **Colors** | Description |
 | `DARK_BLUE` | ![#236B8E](https://placehold.it/15/236b8e/000000?text=+) `#236B8E` |
 | `DARK_BROWN` | ![#8B4513](https://placehold.it/15/8B4513/000000?text=+) `#236B8E` |
