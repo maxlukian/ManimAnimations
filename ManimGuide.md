@@ -226,55 +226,50 @@ Full source code available in mobject.py
 | `TEAL_B` | ![#76DDC0](https://placehold.it/15/76DDC0/000000?text=+) `#236B8E` |
 | `TEAL_A` | ![#ACEAD7](https://placehold.it/15/ACEAD7/000000?text=+) `#236B8E` |
 | `GREEN_E` | ![#699C52](https://placehold.it/15/699C52/000000?text=+) `#236B8E` |
-| `GREEN_D` | TO-DO |
-| `GREEN_C` | TO-DO |
-| `GREEN_B` | TO-DO |
-| `GREEN_A` | TO-DO |
-| `YELLOW_E` | TO-DO |
-| `YELLOW_D` | TO-DO |
-| `YELLOW_C` | TO-DO |
-| `YELLOW_B` | TO-DO |
-| `YELLOW_A` | TO-DO |
-| `GOLD_E` | TO-DO |
-| `GOLD_D` | TO-DO |
-| `GOLD_C` | TO-DO |
-| `GOLD_B` | TO-DO |
-| `GOLD_A` | TO-DO |
-| `RED_E` | TO-DO |
-| `RED_D` | TO-DO |
-| `RED_C` | TO-DO |
-| `RED_B` | TO-DO |
-| `RED_A` | TO-DO |
-| `MAROON_E` | TO-DO |
-| `MAROON_D` | TO-DO |
-| `MAROON_C` | TO-DO |
-| `MAROON_B` | TO-DO |
-| `MAROON_A` | TO-DO |
-| `MAROON_E` | TO-DO |
-| `MAROON_D` | TO-DO |
-| `MAROON_C` | TO-DO |
-| `MAROON_B` | TO-DO |
-| `MAROON_A` | TO-DO |
-| `PURPLE_E` | TO-DO |
-| `PURPLE_D` | TO-DO |
-| `PURPLE_C` | TO-DO |
-| `PURPLE_B` | TO-DO |
-| `PURPLE_A` | TO-DO |
-| `WHITE` | TO-DO |
-| `BLACK` | TO-DO |
-| `LIGHT_GRAY` | TO-DO |
-| `LIGHT_GREY` | TO-DO |
-| `GRAY` | TO-DO |
-| `GREY` | TO-DO |
-| `DARK_GREY` | TO-DO |
-| `DARK_GRAY` | TO-DO |
-| `DARKER_GREY` | TO-DO |
-| `DARKER_GRAY` | TO-DO |
-| `GREY_BROWN` | TO-DO |
-| `PINK` | TO-DO |
-| `LIGHT_PINK` | TO-DO |
-| `GREEN_SCREEN` | TO-DO |
-| `ORANGE` | TO-DO |
+| `GREEN_D` | ![#77B05D](https://placehold.it/15/77B05D/000000?text=+) `#236B8E` |
+| `GREEN_C` | ![#83C167](https://placehold.it/15/83C167/000000?text=+) `#236B8E` |
+| `GREEN_B` | ![#A6CF8C](https://placehold.it/15/A6CF8C/000000?text=+) `#236B8E` |
+| `GREEN_A` | ![#C9E2AE](https://placehold.it/15/C9E2AE/000000?text=+) `#236B8E` |
+| `YELLOW_E` | ![#E8C11C](https://placehold.it/15/E8C11C/000000?text=+) `#236B8E` |
+| `YELLOW_D` | ![#F4D345](https://placehold.it/15/F4D345/000000?text=+) `#236B8E` |
+| `YELLOW_C` | ![#FFFF00](https://placehold.it/15/FFFF00/000000?text=+) `#236B8E` |
+| `YELLOW_B` | ![#FFEA94](https://placehold.it/15/FFEA94/000000?text=+) `#236B8E` |
+| `YELLOW_A` | ![#FFF1B6](https://placehold.it/15/FFF1B6/000000?text=+) `#236B8E` |
+| `GOLD_E` | ![#C78D46](https://placehold.it/15/C78D46/000000?text=+) `#236B8E` |
+| `GOLD_D` | ![#E1A158](https://placehold.it/15/E1A158/000000?text=+) `#236B8E` |
+| `GOLD_C` | ![#F0AC5F](https://placehold.it/15/F0AC5F/000000?text=+) `#236B8E` |
+| `GOLD_B` | ![#F9B775](https://placehold.it/15/F9B775/000000?text=+) `#236B8E` |
+| `GOLD_A` | ![#F7C797](https://placehold.it/15/F7C797/000000?text=+) `#236B8E` |    
+| `RED_E` | ![#CF5044](https://placehold.it/15/CF5044/000000?text=+) `#236B8E` |  
+| `RED_D` | ![#E65A4C](https://placehold.it/15/E65A4C/000000?text=+) `#236B8E` |  
+| `RED_C` | ![#FC6255](https://placehold.it/15/FC6255/000000?text=+) `#236B8E` |  
+| `RED_B` | ![#FF8080](https://placehold.it/15/FF8080/000000?text=+) `#236B8E` |  
+| `RED_A` | ![#F7A1A3](https://placehold.it/15/F7A1A3/000000?text=+) `#236B8E` |  
+| `MAROON_E` | ![#94424F](https://placehold.it/15/94424F/000000?text=+) `#236B8E` |  
+| `MAROON_D` | ![#A24D61](https://placehold.it/15/A24D61/000000?text=+) `#236B8E` |  
+| `MAROON_C` | ![#C55F73](https://placehold.it/15/C55F73/000000?text=+) `#236B8E` |  
+| `MAROON_B` | ![#EC92AB](https://placehold.it/15/EC92AB/000000?text=+) `#236B8E` |  
+| `MAROON_A` | ![#ECABC1](https://placehold.it/15/ECABC1/000000?text=+) `#236B8E` |  
+| `PURPLE_E` | ![#644172](https://placehold.it/15/644172/000000?text=+) `#236B8E` |  
+| `PURPLE_D` | ![#715582](https://placehold.it/15/715582/000000?text=+) `#236B8E` |  
+| `PURPLE_C` | ![#9A72AC](https://placehold.it/15/9A72AC/000000?text=+) `#236B8E` |  
+| `PURPLE_B` | ![#B189C6](https://placehold.it/15/B189C6/000000?text=+) `#236B8E` |  
+| `PURPLE_A` | ![#CAA3E8](https://placehold.it/15/CAA3E8/000000?text=+) `#236B8E` |  
+| `WHITE` | ![#FFFFFF](https://placehold.it/15/CAA3E8/FFFFFF?text=+) `#236B8E` |  
+| `BLACK` | ![#000000](https://placehold.it/15/CAA3E8/000000?text=+) `#236B8E` |  
+| `LIGHT_GRAY` | ![#BBBBBB](https://placehold.it/15/CAA3E8/BBBBBB?text=+) `#236B8E` |  
+| `LIGHT_GREY` | ![#BBBBBB](https://placehold.it/15/CAA3E8/BBBBBB?text=+) `#236B8E` |  
+| `GRAY` | ![#888888](https://placehold.it/15/CAA3E8/888888?text=+) `#236B8E` |  
+| `GREY` | ![#888888](https://placehold.it/15/CAA3E8/888888?text=+) `#236B8E` |  
+| `DARK_GREY` | ![#444444](https://placehold.it/15/CAA3E8/444444?text=+) `#236B8E` |  
+| `DARK_GRAY` | ![#444444](https://placehold.it/15/CAA3E8/444444?text=+) `#236B8E` |  
+| `DARKER_GREY` | ![#222222](https://placehold.it/15/CAA3E8/222222?text=+) `#236B8E` |  
+| `DARKER_GRAY` | ![#222222](https://placehold.it/15/CAA3E8/222222?text=+) `#236B8E` |  
+| `GREY_BROWN` | ![#736357](https://placehold.it/15/736357/000000?text=+) `#236B8E` |  
+| `PINK` | ![#D147BD](https://placehold.it/15/D147BD/000000?text=+) `#236B8E` |  
+| `LIGHT_PINK` | ![#DC75CD](https://placehold.it/15/DC75CD/000000?text=+) `#236B8E` |  
+| `GREEN_SCREEN` | ![#00FF00](https://placehold.it/15/00FF00/000000?text=+) `#236B8E` |  
+| `ORANGE` | ![#FF862F](https://placehold.it/15/FF862F/000000?text=+) `#236B8E` |  
 | `PALETTE` | TO-DO |
 | **Livestream Configurations** | Description |
 | `LIVE_STREAM_NAME` | TO-DO |
