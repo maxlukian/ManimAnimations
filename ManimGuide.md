@@ -213,19 +213,19 @@ Full source code available in mobject.py
 | `DEGREES` | TO-DO |
 | **Colors** | Description |
 | `DARK_BLUE` | ![#236B8E](https://placehold.it/15/236b8e/000000?text=+) `#236B8E` |
-| `DARK_BROWN` | TO-DO |
-| `LIGHT_BROWN` | TO-DO |
-| `BLUE_E` | TO-DO |
-| `BLUE_D` | TO-DO |
-| `BLUE_C` | TO-DO |
-| `BLUE_B` | TO-DO |
-| `BLUE_A` | TO-DO |
-| `TEAL_E` | TO-DO |
-| `TEAL_D` | TO-DO |
-| `TEAL_C` | TO-DO |
-| `TEAL_B` | TO-DO |
-| `TEAL_A` | TO-DO |
-| `GREEN_E` | TO-DO |
+| `DARK_BROWN` | ![#8B4513](https://placehold.it/15/8B4513/000000?text=+) `#236B8E` |
+| `LIGHT_BROWN` | ![#CD853F](https://placehold.it/15/CD853F/000000?text=+) `#236B8E` |
+| `BLUE_E` | ![#1C758A](https://placehold.it/15/1C758A/000000?text=+) `#236B8E` |
+| `BLUE_D` | ![#29ABCA](https://placehold.it/15/29ABCA/000000?text=+) `#236B8E` |
+| `BLUE_C` | ![#58C4DD](https://placehold.it/15/58C4DD/000000?text=+) `#236B8E` |
+| `BLUE_B` | ![#9CDCEB](https://placehold.it/15/9CDCEB/000000?text=+) `#236B8E` |
+| `BLUE_A` | ![#C7E9F1](https://placehold.it/15/C7E9F1/000000?text=+) `#236B8E` |
+| `TEAL_E` | ![#49A88F](https://placehold.it/15/49A88F/000000?text=+) `#236B8E` |
+| `TEAL_D` | ![#55C1A7](https://placehold.it/15/55C1A7/000000?text=+) `#236B8E` |
+| `TEAL_C` | ![#5CD0B3](https://placehold.it/15/5CD0B3/000000?text=+) `#236B8E` |
+| `TEAL_B` | ![#76DDC0](https://placehold.it/15/76DDC0/000000?text=+) `#236B8E` |
+| `TEAL_A` | ![#ACEAD7](https://placehold.it/15/ACEAD7/000000?text=+) `#236B8E` |
+| `GREEN_E` | ![#699C52](https://placehold.it/15/699C52/000000?text=+) `#236B8E` |
 | `GREEN_D` | TO-DO |
 | `GREEN_C` | TO-DO |
 | `GREEN_B` | TO-DO |
