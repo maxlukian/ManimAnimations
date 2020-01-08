@@ -189,24 +189,24 @@ Full source code available in mobject.py
 | `DEFAULT_POINTWISE_FUNCTION_RUN_TIME` | TO-DO |
 | `DEFAULT_WAIT_TIME` | TO-DO |
 | **Positions** | Description |
-| `ORIGIN` | TO-DO |
-| `UP` | TO-DO |
-| `DOWN` | TO-DO |
-| `LEFT` | TO-DO |
-| `RIGHT` | TO-DO |
-| `IN` | TO-DO |
-| `OUT` | TO-DO |
-| `X_AXIS` | TO-DO |
-| `Y_AXIS` | TO-DO |
-| `Z_AXIS` | TO-DO |
-| `UL` | TO-DO |
-| `UR` | TO-DO |
-| `DL` | TO-DO |
-| `DR` | TO-DO |
-| `TOP` | TO-DO |
-| `BOTTOM` | TO-DO |
-| `LEFT_SIDE` | TO-DO |
-| `RIGHT_SIDE` | TO-DO |
+| `ORIGIN` | `np.array([0, 0, 0])` |
+| `UP` | `np.array([0, 1, 0])` |
+| `DOWN` | `np.array([0, -1, 0])` |
+| `LEFT` | `np.array([-1, 0, 0])` |
+| `RIGHT` | `np.array([1, 0, 0])` |
+| `IN` | `np.array([0, 0, -1])` |
+| `OUT` | `np.array([0, 0, 1])` |
+| `X_AXIS` | `np.array([1, 0, 0])` |
+| `Y_AXIS` | `np.array([0, 1, 0])` |
+| `Z_AXIS` | `np.array([0, 0, 1])` |
+| `UL` | `UP + LEFT` |
+| `UR` | `UP + RIGHT` |
+| `DL` | `DOWN + LEFT` |
+| `DR` | `DOWN + RIGHT` |
+| `TOP` | `FRAME_Y_RADIUS * UP` |
+| `BOTTOM` | `FRAME_Y_RADIUS * DOWN` |
+| `LEFT_SIDE` | `FRAME_X_RADIUS * LEFT` |
+| `RIGHT_SIDE` | `FRAME_X_RADIUS * RIGHT` |
 | `TAU` | TO-DO |
 | `PI` | TO-DO |
 | `DEGREES` | TO-DO |
