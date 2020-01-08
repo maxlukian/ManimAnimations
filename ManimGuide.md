@@ -71,7 +71,6 @@
 | **Background Rectangle Methods** | Description |
 | ``` OBJECT.add_background_rectangle()``` | TO-DO |
 | ``` OBJECT.add_background_rectangle_to_submobjects()``` | TO-DO |
-| ``` OBJECT.add_background_rectangle_to_family_members_with_points()``` | TO-DO |
 | **Coloring Methods** | Description |
 | ``` OBJECT.set_color()``` | TO-DO |
 | ``` OBJECT.set_color_by_gradient()``` | TO-DO |
